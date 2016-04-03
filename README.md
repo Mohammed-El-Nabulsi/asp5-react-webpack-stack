@@ -19,7 +19,7 @@ Make sure you have ASP.NET Core installed on your machine (it's cross plattform)
 
 Run:
 
-> dnu restore
-> npm i
-> webpack
-> dnu web -> localhost:5000
+> dnu restore  
+> npm i  
+> webpack  
+> dnu web -> localhost:5000  
