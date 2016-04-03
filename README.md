@@ -15,11 +15,12 @@ Frontend:
 
 ## Usage
 
-Make sure you have ASP.NET Core installed on your machine (it's cross plattform)
+Make sure you have ASP.NET Core installed on your machine (it's cross plattform)  
+http://docs.asp.net/en/latest/getting-started/index.html
 
 Run:
 
-> dnu restore  
+> dnu restore (dnu by default on Windows only possible in cmd prompt. For bash follow this: http://stackoverflow.com/a/29960534)  
 > npm i  
 > webpack  
-> dnu web -> localhost:5000  
+> dnx web -> localhost:5000  
